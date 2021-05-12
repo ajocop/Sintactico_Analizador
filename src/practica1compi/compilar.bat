@@ -1,0 +1,1 @@
+java -jar cup\java-cup-11b.jar -parser  sym Sintactico.cup 
